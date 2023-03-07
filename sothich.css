@@ -1,0 +1,15 @@
+
+table {
+    width: 30%;
+    border-collapse: collapse;
+}
+th{
+    font-family: 'Open Sans', sans-serif;
+    font-size:16px;
+    font-weight:500;
+    color:#fff;
+    text-align:center;
+    padding:10px;
+    background-color: #d61b06;
+    border-color: white;
+}
